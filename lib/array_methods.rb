@@ -1,6 +1,8 @@
 def find_element_index(array, value_to_find)
-  # Add your solution here
-end
+  5.times {value_to_find
+   puts value_to_find
+ }
+
 
 def find_max_value(array)
   # Add your solution here
