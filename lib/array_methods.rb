@@ -18,4 +18,3 @@ def find_min_value(array)
     if count == 0
       min = array[count]
 end
-
